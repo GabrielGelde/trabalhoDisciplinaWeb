@@ -1,0 +1,255 @@
+.ImgLogoFia{
+    width:120;
+
+}
+
+.tituloH2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 10px;
+    left: 170px;
+}
+
+.TamanhoLogoF1{
+    width: 260px;
+}
+.ImgLogoF1{
+    top: -90px;
+    left: 900;
+    position: absolute;
+    
+}
+
+.desdeX{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    top: 9px;
+    left: 1150;
+    position: absolute;
+    }
+
+.tituloclassificacao{
+    width: 1350px;
+    height: 50px;
+    background-color:#9CAEC2;
+}
+
+.tabelaf1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.tabelaPrincipal{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #4B1212;
+    border: 0px solid white;
+    border-collapse:collapse;
+    padding: 50px;
+    width: 1050px;
+    top : 50px;
+    
+    
+}
+
+.TabelaCentro{
+    position: relative;
+    left: 150px;
+}
+
+.TabelaCentro2{
+    position: relative;
+    left: 350px;
+}
+
+th, td {
+    border-bottom: 1px solid #9CAEC2;
+  }
+
+.imgFlag{
+     width: 20px;
+     
+}
+
+.imgCapacete{
+    width: 30px;
+}
+
+.imgEquipe{
+    width: 50px;
+}
+
+.primeiraLinha{
+    text-align: center;
+    font-size: 15px;
+        text-align: center;
+        color: #003366;
+        background-color: #9CAEC2 ;
+}
+
+.LinhaBack{
+    background-color: #f2f2f2;
+}
+
+tb{
+    text-align: center;
+    
+}
+
+tr{
+    text-align: center;
+}
+
+.NomePosicao{
+    font-size: 18px;
+        text-align: center;
+        color: #003366;
+        background-color: #9CAEC2 ;
+        border-bottom: 1px solid #9CAEC2;
+}
+
+.NomePiloto{
+    text-align: left;
+}
+
+.NomeConstrutor{
+    text-align: left;
+}
+
+.NomeEquipe{
+    text-align: left;
+}
+
+.tabelaPrincipal2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #4B1212;
+    border: 0px solid white;
+    border-collapse:collapse;
+    padding: 50px;
+    width: 1050px;
+    top : 50px;
+    }
+
+    .tabelaPrincipal3{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #4B1212;
+    border: 1px solid #9CAEC2;
+    border-collapse:collapse;
+    padding: 100px;
+    width: 500px;
+    top : 50px;
+    }
+
+.imgRBR{
+    width: 600px;
+    border: #4A80C8 solid;
+    }
+
+.imgFerrari{
+    width: 600px;
+    border: #F60124 solid;
+    position: absolute;
+    top: 1637px;
+    left: 620px;
+
+    
+}
+
+.imgMacLaren{
+    width: 600px;
+    border: #EA7A1D solid;
+    position: absolute;
+    top: 2070px ;
+    left: 9;
+}
+
+
+.imgMercedes{
+    width: 600px;
+    border: #24E1C2 solid;
+    position: absolute;
+    top: 2070px;
+    left: 620px;
+}
+
+.imgaMartin{
+    width: 600px;
+    border: #00665F solid;
+    position: absolute;
+    top: 2503px;
+    left: 9;
+}
+
+.imgVisaCash{
+    width: 600px;
+    border: #1434CB solid;
+    position: absolute;
+    top: 2503px;
+    left: 620px;
+}
+
+.imgHaasFerrari{
+    width: 600px;
+    border: #ABAFB2 solid;
+    position: absolute;
+    top: 2936px;
+    left: 9px;
+}
+
+
+.imgWilliams{
+    width: 600px;
+    border: #0000FF solid;
+    position: absolute;
+    top: 2936px;
+    left: 620px;
+}
+
+.imgStake{
+    width: 600px;
+    border: #00E000 solid;
+    position: absolute;
+    top: 3369px;
+    left: 9px;
+}
+
+.imgAlpine{
+    width: 600px;
+    border: #E878AE solid;
+    position: absolute;
+    top: 3369px;
+    left: 620px;
+}
+
+.PosicionamentoImagens{
+    width: 1300px;
+    height: 2150px;
+    
+}
+
+.PosicionamentoImagensEsteticas{
+    width: 300px;
+    height: 300px;
+    top: -20px;
+    position: absolute;
+    left: -320px;
+
+}
+
+.PosicionamentoImagensEsteticas2{
+    width: 300px;
+    height: 300px;
+    top: -20px;
+    position: absolute;
+    left: 520px;
+
+}
+
+.TamanhoImgEst{
+    width: 300px;
+    height: 300px;
+    
+}
+
+body{
+    width: 1000px;
+    
+}
